@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NycollasVidigal
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on with all
+- 📫 How to reach me via email
 - 
 <!---
 NycollasVidigal/NycollasVidigal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
